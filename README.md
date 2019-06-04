@@ -16,3 +16,11 @@ If you use this code, please refer to:
     doi = {10.1002/nbm.4131, 2019},
 }
 ```
+## Requirements
+This framework requires Python 2.7 and the tensorflow repository, the main dependencies are as follows:
+
+ - TensorFlow 1.3
+ - python 2.7
+ - scipy 1.2.1
+ - h5py 2.9.0
+ - scikit-image 0.15.0
